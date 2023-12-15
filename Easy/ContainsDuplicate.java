@@ -20,3 +20,5 @@ class ContainsDuplicate {
         
     }
 }
+
+// Easy
